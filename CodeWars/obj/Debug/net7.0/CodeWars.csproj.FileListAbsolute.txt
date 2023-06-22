@@ -1,0 +1,15 @@
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.csproj.AssemblyReference.cache
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.AssemblyInfoInputs.cache
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.AssemblyInfo.cs
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Drago\source\repos\CodeWars\CodeWars\bin\Debug\net7.0\CodeWars.exe
+C:\Users\Drago\source\repos\CodeWars\CodeWars\bin\Debug\net7.0\CodeWars.deps.json
+C:\Users\Drago\source\repos\CodeWars\CodeWars\bin\Debug\net7.0\CodeWars.runtimeconfig.json
+C:\Users\Drago\source\repos\CodeWars\CodeWars\bin\Debug\net7.0\CodeWars.dll
+C:\Users\Drago\source\repos\CodeWars\CodeWars\bin\Debug\net7.0\CodeWars.pdb
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.dll
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\refint\CodeWars.dll
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.pdb
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\CodeWars.genruntimeconfig.cache
+C:\Users\Drago\source\repos\CodeWars\CodeWars\obj\Debug\net7.0\ref\CodeWars.dll
